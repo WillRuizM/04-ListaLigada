@@ -1,3 +1,6 @@
+william ruiz
+william.mesquita@fatec.sp.gov.br
+
 # Lista Ligada
 ---
 
